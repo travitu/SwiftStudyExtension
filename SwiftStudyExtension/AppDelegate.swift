@@ -2,7 +2,6 @@
 //  AppDelegate.swift
 //  SwiftStudyExtension
 //
-//  Created by Toshikazu Fukuoka on 2017/10/16.
 //  Copyright © 2017年 travitu. All rights reserved.
 //
 
